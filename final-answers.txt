@@ -4,51 +4,58 @@ DO NOT ADD OR REMOVE ANY LINES IN THIS FILE
 UNTIL AFTER QUESTION 8
 
 
-pandas version:  XXX 
+pandas version:  2.2.3 
 
 Task 4 Questions
 
-(1): XXX
+(1): 881
 
 (2) 
-mean: XXX
-median: XXX
+mean: 6.374
+median: 6.5
 
 (3) 
-(a): XXX
-(b): XXX
-(c): XXX
+(a): 2004-12-26
+(b): 227898
+(c): 27.146
 (d) (remove appropriate row from data)
 
 (4)
-date: XXXX-XX-XX
-latitude: XXX
-longitude: XXX
+date: 2006-04-25
+latitude: -41.164
+longitude: 146.863
 
 (5) 
-date: XXXX-XX-XX
-latitude: XXX
-longitude: XXX
+date: 2010-01-12
+latitude: 18.443
+longitude: -72.571
 
 (6) 
-latitude: XXX
-longitude: XXX
+latitude: -1.401
+longitude: 7.773
 
-(7): XXX days XXX:XXX:XXX
+(7): 10 days 02:24:09.226
 
 (8)
-Low: XXX
-Moderate: XXX
-High: XXX
+Low: 2.671
+Moderate: 140.996
+High: 1549.542
 
 NEW LINES CAN BE ADDED AS NECESSARY AFTER 
 THIS POINT IN THE FILE
 
 (9) (describe insights from figure):
-XXX
+looking at the plot, I can see fatalities~magnitude. 
+The majority of earth quakes, have 0 or very few fatalities
+despite the magnitude. With that said, there are a handful 
+of earthquake with high magnitudes that have extremely high
+fatalities. 
 
 (10) (describe insights from figure):
-XXX
+I see a lot of earthquakes around the perimeters of the continents.
+Additionally, earthquakes follow mountain ranges. There are few
+earth quakes in the middle of landmasses. It looks like
+the majority of high magnitude earth quakes happen in the ocean.
 
 
 TASK 5: (describe interesting finding):
