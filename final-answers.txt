@@ -59,18 +59,28 @@ the majority of high magnitude earth quakes happen in the ocean.
 
 
 TASK 5: (describe interesting finding):
-XXX
+I choose to look into years with unusally high number of earthquakes.
+2016 had the highest count of signficiant earthquakes. Which
+is fasinating to me because, I lived during that year and didn't
+realize that anything unusally with earthquakes was happening.
+
 
 
 TASK 6: 
-(1) XXX
+(1) For me, the webscraping and data cleaning was the hardest.
+Everything else fits into a nicely little pattern once the data is ready.
+But getting and cleaning the data is like tamming a wild animal.
 
-(2) Yes or No: XXX
 
-- (2a) XXX
+(2) Yes or No: Yes
 
-- (2b) XXX
+- (2a) I used GPT to help me with syntax. I am most familiary with R, and I kept writing R syntax.
+I used GPT to help me get the correct arguments for python.
 
-- (2c) XXX
+- (2b) i.e. I wrote head(df, 5), but in python it is df.head(5). 
 
-(3) XXX
+- (2c) It was helpful, it saved me a lot of time having to go read documentation. It was unhelpful,
+because it kept wanting to through generic arguments into the result. And I had to go in and change
+the arguments to be specific to my data.
+
+(3) I took the this in two sittings. And I think I was about 4.5 hrs collectivily.
