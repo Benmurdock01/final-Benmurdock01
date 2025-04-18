@@ -1,0 +1,69 @@
+Replace the XXX with your answer.  
+
+DO NOT ADD OR REMOVE ANY LINES IN THIS FILE
+UNTIL AFTER QUESTION 8
+
+
+pandas version:  XXX 
+
+Task 4 Questions
+
+(1): XXX
+
+(2) 
+mean: XXX
+median: XXX
+
+(3) 
+(a): XXX
+(b): XXX
+(c): XXX
+(d) (remove appropriate row from data)
+
+(4)
+date: XXXX-XX-XX
+latitude: XXX
+longitude: XXX
+
+(5) 
+date: XXXX-XX-XX
+latitude: XXX
+longitude: XXX
+
+(6) 
+latitude: XXX
+longitude: XXX
+
+(7): XXX days XXX:XXX:XXX
+
+(8)
+Low: XXX
+Moderate: XXX
+High: XXX
+
+NEW LINES CAN BE ADDED AS NECESSARY AFTER 
+THIS POINT IN THE FILE
+
+(9) (describe insights from figure):
+XXX
+
+(10) (describe insights from figure):
+XXX
+
+
+TASK 5: (describe interesting finding):
+XXX
+
+
+TASK 6: 
+(1) XXX
+
+(2) Yes or No: XXX
+
+- (2a) XXX
+
+- (2b) XXX
+
+- (2c) XXX
+
+(3) XXX

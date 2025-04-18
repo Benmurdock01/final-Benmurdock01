@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+!code.py
+!code.ipynb
+!final-answers.txt
+!earthquakes.csv
+!fatalities-by-magnitude.png
+!earthquake-map.html
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
